@@ -1,7 +1,5 @@
 # SCAV-Lab2
 
-**Teacher:** Javi Brines
-
 Tis readme intents to explain the second lab in the SCAV subject for the video part.
 
 This repository consists in:
